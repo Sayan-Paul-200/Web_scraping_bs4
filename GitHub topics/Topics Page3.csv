@@ -1,0 +1,31 @@
+Title,Description,URL
+Game engine,A game engine is a software framework used to develop and create video games.,https://github.com/topics/game-engine
+Git,Git is the most widely used version control system.,https://github.com/topics/git
+GitHub API,The GitHub API allows you to build applications that integrate with GitHub.,https://github.com/topics/github-api
+Go,Go is a programming language built to resemble a simplified version of the C programming language.,https://github.com/topics/go
+Google,Google LLC is an American multinational technology company that specializes in Internet-related services and products.,https://github.com/topics/google
+Gradle,"Gradle is an open-source build tool that helps teams build, automate and deliver better software, faster.",https://github.com/topics/gradle
+GraphQL,GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.,https://github.com/topics/graphql
+Gulp,Gulp is a toolkit for automating and streamlining web development.,https://github.com/topics/gulp
+Hacktoberfest,Hacktoberfest is a month-long celebration of open source software.,https://github.com/topics/hacktoberfest
+Haskell,"Haskell is a functional programming language with non-strict semantics, and strong static typing.",https://github.com/topics/haskell
+Homebrew,Homebrew is a package manager for macOS.,https://github.com/topics/homebrew
+Homebridge,"Homebridge is a utility for tying smart home devices together into Apple’s HomeKit framework, controlled by Siri.",https://github.com/topics/homebridge
+HTML,HTML is the fundamental markup language for webpages.,https://github.com/topics/html
+HTTP,HTTP (Hypertext Transfer Protocol) is the standard for communication across the web.,https://github.com/topics/http
+Icon font,Icon fonts contain glyphs and symbols in place of textual letters.,https://github.com/topics/icon-font
+iOS,iOS is the operating system for Apple's mobile products.,https://github.com/topics/ios
+IPFS,IPFS is a peer-to-peer protocol for content-addressed sharing of data via a distributed file system.,https://github.com/topics/ipfs
+Java,"Java is an object-oriented programming language used mainly for web, desktop, embedded devices and mobile applications.",https://github.com/topics/java
+JavaScript,JavaScript (JS) is a lightweight interpreted programming language with first-class functions.,https://github.com/topics/javascript
+Jekyll,"Jekyll is a simple, blog-aware static site generator.",https://github.com/topics/jekyll
+jQuery,jQuery is a lightweight library that simplifies programming with JavaScript.,https://github.com/topics/jquery
+JSON,"JSON (JavaScript Object Notation) allows for easy interchange of data, often between a program and a database.",https://github.com/topics/json
+The Julia Language,"Julia is a high-level, high-performance dynamic programming language for numerical computing.",https://github.com/topics/julia
+Jupyter Notebook,"Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.",https://github.com/topics/jupyter-notebook
+Koa,Koa is an expressive middleware framework for Node.js servers that uses ES2017 async functions.,https://github.com/topics/koa
+Kotlin,Kotlin is a statically typed programming language for multiplatform applications.,https://github.com/topics/kotlin
+Kubernetes,"Kubernetes is an open source system for automating deployment, scaling, and management of containerized applications.",https://github.com/topics/kubernetes
+Laravel,The PHP Framework for Web Artisans.,https://github.com/topics/laravel
+LaTeX,LaTeX is a document preparation system.,https://github.com/topics/latex
+Library,"A library is a collection of resources, often created to make programming a task simpler.",https://github.com/topics/library
